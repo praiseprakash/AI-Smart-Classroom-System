@@ -1,0 +1,11 @@
+opencv-python
+ultralytics
+face-recognition
+mediapipe
+numpy
+Pillow
+fastapi
+uvicorn
+streamlit
+pandas
+plotly
